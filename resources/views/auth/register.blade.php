@@ -35,7 +35,7 @@
 						Register
 					</span>
 					<span class="login100-form-avatar">
-						<img src="{{asset('back_end/images/new_psc_logo.gif')}}" alt="AVATAR">
+						<img src="{{asset('back_end/images/girl.png')}}" alt="AVATAR">
 					</span>
 
 					<div class="wrap-input100 validate-input m-t-85 m-b-35" data-validate = "Enter username">
